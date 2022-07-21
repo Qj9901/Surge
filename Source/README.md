@@ -6,19 +6,21 @@
 
 * 只测试自用脚本，其他大部分脚本未测试可用性.
 
+* 更新通知[频道](https://t.me/nzw9314News)
+
 ### Surge全局配置：
 
-* [Surge.conf](https://raw.githubusercontent.com/Qj9901/Surge/master/Source/Surge_Basic.conf)
+* [Surge.conf](https://raw.githubusercontent.com/nzw9314/Surge/master/Surge_Basic.conf)
 
 
 ### Surge脚本订阅配置：
 * [视频教程](https://youtu.be/YwVZxtFFSpM)
 
-* [Script_All_in_one.sgmodule](https://raw.githubusercontent.com/Qj9901/Surge/master/Scripts/Script_All_in_one.sgmodule) 脚本模块
+* [Script_All_in_one.sgmodule](https://raw.githubusercontent.com/nzw9314/Surge/master/Module/Script_All_in_one.sgmodule) 脚本模块
 
-* [Cookie_All_in_one.sgmodule](https://raw.githubusercontent.com/Qj9901/Surge/master/Scripts/Cookie_All_in_one.sgmodule)获取Cookie模块
+* [Cookie_All_in_one.sgmodule](https://raw.githubusercontent.com/nzw9314/Surge/master/Module/Cookie_All_in_one.sgmodule)获取Cookie模块
 
-* [Task.sgmodule](https://raw.githubusercontent.com/Qj9901/Surge/master/Scripts/Task.sgmodule) 定时任务模块
+* [Task_All_in_one.sgmodule](https://raw.githubusercontent.com/nzw9314/Surge/master/Module/Task_All_in_one.sgmodule) 定时任务模块
 
 
 ## 免责声明：
